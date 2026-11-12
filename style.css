@@ -1,0 +1,33 @@
+main {
+    margin: auto;
+    width: 750px;
+    background-color: rgb(209, 208, 201);
+    border-radius: 10px;
+}
+h1 {
+    text-align: center;
+}
+article{
+    display: flex;
+}
+#gep{
+    flex: 1 1 50%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#jatekos {
+    flex: 1 1 50%;
+    text-align: center;
+}
+.csata{
+    background-color: antiquewhite;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 5px;
+    min-height: 400px;
+}
+img{
+    max-width: 250px;
+}
